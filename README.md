@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Pratik Paudel
 
-I am an analytical and results-driven Information Systems postgraduate specializing in Data Science, Machine Learning pipelines, and Advanced Customer Analytics. I build end-to-end Python pipelines that translate complex tracking streams into actionable business intelligence.
+I am an analytical and results-driven Information Systems postgraduate. My expertise lies at the intersection of business data frameworks and technology, with a focus on designing structured data workflows, machine learning pipelines, and analytical reporting models. 
+
+While transitioning into full-time industry roles with targeted internship experience, I have built an applied engineering portfolio implementing end-to-end Python pipelines and robust analytics architecture to solve complex operational challenges.
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
 * **Languages & Data:** Python (Pandas, NumPy), SQL
-* **Machine Learning & AI:** Scikit-Learn, TensorFlow, K-Means Clustering, Random Forest, OpenCV
-* **Data Visualization & BI:** Matplotlib, Seaborn, Power BI
+* **Data Engineering & BI:** dbt (Data Build Tool), DuckDB, Power BI, Matplotlib, Seaborn
+* **Machine Learning & AI:** Scikit-Learn (Random Forest, K-Means Clustering, GridSearchCV), TensorFlow, OpenCV
 
 ---
 
@@ -32,4 +34,4 @@ I am an analytical and results-driven Information Systems postgraduate specializ
 ### 📊 4. [Olist Brazilian E-Commerce Analytics Pipeline](https://github.com/paudel1472/olist-ecommerce-analytics)
 * **Domain:** Analytics Engineering & Dimensional Data Warehousing
 * **Core Stack:** Python, dbt, SQL, DuckDB
-* **Impact:** Engineered an end-to-end data transformation pipeline converting raw retail data streams into a optimized Star Schema warehouse, leveraging dbt for data quality assertion tests and analytical performance acceleration.
+* **Impact:** Engineered an end-to-end data transformation pipeline converting raw retail data streams into an optimized Star Schema warehouse, leveraging dbt for data quality assertion tests and analytical performance acceleration.
